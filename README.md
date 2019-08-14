@@ -1,5 +1,10 @@
 # soft-downloader
 
+## 介绍
+```
+实现在线下载官方应用安装包，数据源来自腾讯和360
+```
+
 ## Project setup
 ```
 npm install
